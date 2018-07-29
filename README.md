@@ -1,3 +1,23 @@
+<p align="center">
+  <img width="100" src="assets/img/binary-code.svg">
+</p>
+
+
+<p align="center">
+
+    <a alt="Github All Releases">
+        <img src="https://img.shields.io/github/downloads/HumamAlhasan/Data-Structures-and-Algorithms-Roadmap/total.svg" /></a>
+    <a href="https://img.shields.io/github/forks/HumamAlhasan/Data-Structures-and-Algorithms-Roadmap/shields.svg?style=social&label=Fork" alt="GitHub forks">
+        <img src="https://img.shields.io/github/forks/HumamAlhasan/Data-Structures-and-Algorithms-Roadmap.svg?style=social&label=Fork" /></a>
+        
+
+    <a href="https://img.shields.io/github/stars/HumamAlhasan/Data-Structures-and-Algorithms-Roadmap.svg?style=social&label=Stars" alt="GitHub forks">
+        <img src="https://img.shields.io/github/stars/HumamAlhasan/Data-Structures-and-Algorithms-Roadmap.svg?style=social&label=Stars" /></a>
+        
+</p>
+
+
+---
 # Data Structures and Algorithms Roadmap 
 
 > ok let's face it everyone has an endless fear inside, when it comes to Data structures & Algorithms, these two core aspects which technically they're the first Submarine that it will dive with you into Software engineering world or computer science, and even if we want to fake it, but it just doesn't work without the ability to understand these aspects and use them, which literally means: everyone is able to write code, even complete systems architectures, and code runs anyway,
