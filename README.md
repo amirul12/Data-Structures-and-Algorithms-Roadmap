@@ -21,10 +21,11 @@ Actually the whole thing it's much way simpler than you think, but it's supernat
 - [What is it?](#what-is-it)
 - [Why it's the perfect time to use it?](#why-its-the-perfect-time-to-use-it)
 - [it's not hard, but also not easy](#its-not-hard-but-also-not-easy)
+- [And what about math?!](#and-what-about-math)
+- [know exactly where you are and what you want.](#know-exactly-where-you-are-and-what-you-want)
 - [What it will consists of?](#what-it-will-consists-of)
 - [Do it with love or don't even begin.](#do-it-with-love-or-dont-even-begin)
 - [Things speeds up you learning process and makes it more easy and fun](#things-speeds-up-you-learning-process-and-makes-it-more-easy-and-fun)
-- [And what about math?!](#and-what-about-math)
 
 ---
 
@@ -75,9 +76,21 @@ then don't worry I've got your back, math is very simple but as i told you like 
 
 ---
 
+## know exactly where you are and what you want
+
+
+
+---
+
 ## What it will consists of?
 
+ - Refreshing your math knowledge or just build it.
+ - Selecting the programming language you want to use there will be examples in these four languages : Java, C++, Python, Javascript for now if you like to add yours fork it and join me spreading this knowledge.
 
+ - understanding the thiories behind each Data structre and algorithm.
+ - 	Using or sharing examples of each data structure and its algorithm example.
+
+there will be examples almost for all the popular Data strucres
 
 ---
 
@@ -89,8 +102,4 @@ if you don't have passion about the thing you're doing then it's very hard to ga
 ---
 
 ## Things speeds up you learning process and makes it more easy and fun
----
-
-## know exactly where you are and what you want
-
 ---
