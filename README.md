@@ -46,7 +46,7 @@ but why? well the simplest answer is that you don't know what's happening behind
 
 
 ## it's not hard, but also not easy 😆
-![weird](https://media3.giphy.com/media/Lcn0yF1RcLANG/giphy.gif)
+![weird](http://media3.giphy.com/media/Lcn0yF1RcLANG/giphy.gif)
 
 The beginning of billion miles trip is one step, Algorithms and data structures aren't hard, but like anything else you need to practice and read and practice, and when you get into the journey you will ever forget this hardness,
 
