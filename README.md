@@ -76,19 +76,21 @@ then don't worry I've got your back, math is very simple but as i told you like 
 
 ---
 
-## know exactly where you are and what you want
+## know exactly where you are, and what you want
 
+if you really want to learn something through this journey you should have a goal, and also you must know which level you are, just to make things easier,
 
+don't escape any example and use then in order in order, cause it's all related 
 
 ---
 
 ## What it will consists of?
 
  - Refreshing your math knowledge or just build it.
- - Selecting the programming language you want to use there will be examples in these four languages : Java, C++, Python, Javascript for now if you like to add yours fork it and join me spreading this knowledge.
+ - Selecting the programming language you want to use there will be examples in these four languages : **Java**, **C++**, **Python**, **Javascript** for now if you like to add yours fork it and join me spreading this knowledge.
 
  - understanding the thiories behind each Data structre and algorithm.
- - 	Using or sharing examples of each data structure and its algorithm example.
+ - 	Using or sharing examples of each data structure and it's algorithm example.
 
 there will be examples almost for all the popular Data strucres
 
@@ -96,10 +98,22 @@ there will be examples almost for all the popular Data strucres
 
 ## Do it with love or don't even begin
 
-if you don't have passion about the thing you're doing then it's very hard to gain any progress, even if it feels uncontrollable cause we all want it to happen fast, but every time you feel that you're away from your goal then remember this base constant universal low, for every goal you want to achieve there are some taxes, so you decide if you want to pay them before or after you achieve your happiness euphoria, it feels sometimes hard an so connected but your passion will make it so exciting all the time, so the result of this pain that you're investing in your self and the gain will be knowledge, dream job, great projects ideas etc.. so focus on your goals, breathe, and do it, now or never.
+if you don't have passion about the thing you're doing then it's very hard to gain any progress, even if it feels uncontrollable cause we all want it to happen fast,
+
+but every time you feel that you're away from your goal then remember this base constant universal low, for every goal you want to achieve there are some taxes, so you decide if you want to pay them before or after you achieve your happiness euphoria,
+
+ it feels sometimes hard an so connected but your passion will make it so exciting all the time, so the result of this pain that you're investing in your self and the gain will be knowledge, dream job, great projects ideas etc.. so focus on your goals, breathe, and do it, now or never.
 
 
 ---
 
 ## Things speeds up you learning process and makes it more easy and fun
+
+-  after every example you see, try to write the summary of this example usage.
+- don't pressure yourself, it's fine we were all the same.
+- try to focus and stop everything bothers you.
+- Building software is like playing instruments, and if you want to play some instrument you have to know some theories then you have to practice and practice i think it was so clear 💛
+- Try to practice it in the morning.
+- don't let your learning session goes for more than 2 hours max.
+
 ---
