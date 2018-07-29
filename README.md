@@ -16,18 +16,34 @@ The main purpose of this roadmap is to make you understand almost everything abo
 
 ## Why it's the perfect time to use it?
 
+---
+
 
 ## it's not hard, but also not easy
 
+---
+
 ## What it will consists of?
+
+---
+
+## Do it with love or don't even begin
+
+if you don't have passion about the thing you're doing then it's very hard to gain any progress, even if it feels uncontrollable cause we all want it to happen fast, but every time you feel that you're away from your goal then remember this base constant universal low, for every goal you want to achieve there are some taxes, so you decide if you want to pay them before or after you achieve your happiness euphoria, it feels sometimes hard an so connected but your passion will make it so exciting all the time, so the result of this pain that you're investing in your self and the gain will be knowledge, dream job, great projects ideas etc.. so focus on your goals, breathe, and do it, now or never.
+
+
+---
 
 ## Contents table
 
 - [But what is it?](#but-what-is-it)
 - [Why it's the perfect time to use it?](#why-its-the-perfect-time-to-use-it)
 - [What it will consists of?](#what-it-will-consists-of)
+- [Do it with love or don't even begin?](#do-it-with-love-or-dont-even-begin)
+
 - [And what about math?!](#and-what-about-math)
 
+---
 
 ## And what about math?!
 ![Math](https://i.gifer.com/V8qR.gif)
