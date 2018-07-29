@@ -39,7 +39,7 @@ if you don't have passion about the thing you're doing then it's very hard to ga
 - [But what is it?](#but-what-is-it)
 - [Why it's the perfect time to use it?](#why-its-the-perfect-time-to-use-it)
 - [What it will consists of?](#what-it-will-consists-of)
-- [Do it with love or don't even begin?](#do-it-with-love-or-dont-even-begin)
+- [Do it with love or don't even begin.](#do-it-with-love-or-dont-even-begin)
 
 - [And what about math?!](#and-what-about-math)
 
