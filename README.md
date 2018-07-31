@@ -5,19 +5,14 @@
 
 <p align="center">
 
-<a alt="Github All Releases">
-  <img src="https://img.shields.io/github/downloads/HumamAlhasan/Data-Structures-and-Algorithms-Roadmap/total.svg" />
-</a>
-        
- <a href="https://img.shields.io/github/forks/HumamAlhasan/Data-Structures-and-Algorithms-Roadmap/shields.svg?style=social&label=Fork" alt="GitHub forks">
-        <img src="https://img.shields.io/github/forks/HumamAlhasan/Data-Structures-and-Algorithms-Roadmap.svg?style=social&label=Fork" />
-</a>
+    <a alt="Github All Releases">
+        <img src="https://img.shields.io/github/downloads/HumamAlhasan/Data-Structures-and-Algorithms-Roadmap/total.svg" /></a>
+    <a href="https://img.shields.io/github/forks/HumamAlhasan/Data-Structures-and-Algorithms-Roadmap/shields.svg?style=social&label=Fork" alt="GitHub forks">
+        <img src="https://img.shields.io/github/forks/HumamAlhasan/Data-Structures-and-Algorithms-Roadmap.svg?style=social&label=Fork" /></a>
         
 
- <a href="https://img.shields.io/github/stars/HumamAlhasan/Data-Structures-and-Algorithms-Roadmap.svg?style=social&label=Stars" alt="GitHub forks">
-<img src="https://img.shields.io/github/stars/HumamAlhasan/Data-Structures-and-Algorithms-Roadmap.svg?style=social&label=Stars" />
-  
-</a>
+    <a href="https://img.shields.io/github/stars/HumamAlhasan/Data-Structures-and-Algorithms-Roadmap.svg?style=social&label=Stars" alt="GitHub forks">
+        <img src="https://img.shields.io/github/stars/HumamAlhasan/Data-Structures-and-Algorithms-Roadmap.svg?style=social&label=Stars" /></a>
         
 </p>
 
@@ -51,6 +46,30 @@ Actually the whole thing it's much way simpler than you think, but it's supernat
 - [And what about math?!](#and-what-about-math)
 - [know exactly where you are and what you want.](#know-exactly-where-you-are-and-what-you-want)
 - [What it will consists of?](#what-it-will-consists-of)
+	- Refresh or Build your math knowledge.
+	- Algorithms & Data structres theories
+	- Choose the programming language you prefer
+		- C++
+			- courses
+		- Java
+			- courses
+		- Python
+			- courses
+		- Jvascript
+			- courses
+	
+	- introduction to Data structres
+		- introuction
+		- Arrays
+		- Lists
+		- Stacks
+		- Queues
+		- Hashtables
+		- Trees
+		- Heaps
+		- Graphs
+	- introduction to Algorithms
+		
 - [Do it with love or don't even begin.](#do-it-with-love-or-dont-even-begin)
 - [Things speeds up you learning process and makes it more easy and fun](#things-speeds-up-you-learning-process-and-makes-it-more-easy-and-fun)
 
