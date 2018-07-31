@@ -69,7 +69,16 @@ Actually the whole thing it's much way simpler than you think, but it's supernat
 		- Heaps
 		- Graphs
 	- introduction to Algorithms
-		
+		- Sorting algoritms
+			- Bubble sort [Theory]() - Examples : [Java]() [C++]() [Python]() [Javascript]()
+			- Selection sort [Theory]() - Examples : [Java]() [C++]() [Python]() [Javascript]()
+			- Insertion sort [Theory]() - Examples : [Java]() [C++]() [Python]() [Javascript]()
+			- Shell sort [Theory]() - Examples : [Java]() [C++]() [Python]() [Javascript]()
+			- Merge sort [Theory]() - Examples : [Java]() [C++]() [Python]() [Javascript]()
+			- Quick sort [Theory]() - Examples : [Java]() [C++]() [Python]() [Javascript]()
+			- Counting sort [Theory]() - Examples : [Java]() [C++]() [Python]() [Javascript]()
+			- Redix sort [Theory]() - Examples : [Java]() [C++]() [Python]() [Javascript]()
+			- Insertion sort [Theory]() - Examples : [Java]() [C++]() [Python]() [Javascript]()
 - [Do it with love or don't even begin.](#do-it-with-love-or-dont-even-begin)
 - [Things speeds up you learning process and makes it more easy and fun](#things-speeds-up-you-learning-process-and-makes-it-more-easy-and-fun)
 
