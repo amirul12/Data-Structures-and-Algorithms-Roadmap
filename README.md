@@ -36,9 +36,11 @@ Actually the whole thing it's much way simpler than you think, but it's supernat
 > wish you all the best and I can't wait to see the transformation you'll go through
 > 
 
-## Contents table
+## 📙 Contents table
 
 - [What is it?](#what-is-it)
+	- 
+
 - [Why it's the perfect time to use it?](#why-its-the-perfect-time-to-use-it)
 - [it's not hard, but also not easy](#its-not-hard-but-also-not-easy)
 - [And what about math?!](#and-what-about-math)
@@ -50,13 +52,13 @@ Actually the whole thing it's much way simpler than you think, but it's supernat
 ---
 
 
-## What is it?
+## 🤔 What is it?
 
 The main purpose of this roadmap is to make you understand almost everything about these two huge main aspects and how to use them in your new coming Apps, or just to crack the company's interview that  you're about to apply to, or finally to simply break this fear wall 💪🏽
 
 ---
 
-## Why it's the perfect time to use it?
+## 😺 Why it's the perfect time to use it?
 lets for example, imagine this scenario, you've begun to learn a new tech for 3 years and you've already started to make money using it, and suddenly the support for this tech stopped, 
 
 and the community started to hate this tech, which means that you can't work with it anymore or even if you want to companies will never trust this tech, which means at the and of the time you will become unemployed and you will repeat the same circle of learning a new tech,
@@ -79,10 +81,10 @@ and at the end of this learning journey you'll feel a lot of power which is the 
 
 ---
 
-## And what about math?!
+## And what about math?! 🙃
 ![Math](https://i.gifer.com/V8qR.gif)
 
-alot of (developers) and (coders) says that you don't have to learn math to become a professional programmer and that's almost true in their case instead of learning some math skills, repeat your self all the time,
+alot of (**developers**) and (**coders**) says that you don't have to learn math to become a professional programmer and that's almost true in their case **instead of learning some math skills repeat your self all the time**,
 
 if you want to learn how to code then you don't have to learn much math,
 
@@ -96,7 +98,7 @@ then don't worry I've got your back, math is very simple but as i told you like 
 
 ---
 
-## know exactly where you are, and what you want
+## know exactly where you are, and what you want 
 
 if you really want to learn something through this journey you should have a goal, and also you must know which level you are, just to make things easier,
 
@@ -104,9 +106,9 @@ don't escape any example and use then in order in order, cause it's all related
 
 ---
 
-## What it will consists of?
+## 🥞 What it will consists of? 
 
- - Refreshing your math knowledge or just build it.
+ - Refreshing your math knowledge or simply build it.
  - Selecting the programming language you want to use there will be examples in these four languages : **Java**, **C++**, **Python**, **Javascript** for now if you like to add yours fork it and join me spreading this knowledge.
 
  - understanding the thiories behind each Data structre and algorithm.
@@ -127,7 +129,7 @@ but every time you feel that you're away from your goal then remember this base 
 
 ---
 
-## Things speeds up you learning process and makes it more easy and fun
+##  🏃🏼‍♂️ Things speeds up you learning process and makes it more easy and fun 
 
 -  after every example you see, try to write the summary of this example usage.
 - don't pressure yourself, it's fine we were all the same.
