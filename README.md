@@ -57,11 +57,22 @@ Actually the whole thing it's much way simpler than you think, but it's supernat
 			- courses
 		- Jvascript
 			- courses
+
+	- [Big-O Notation]()
 	
 	- introduction to Data structres
 		- introuction
 		- Arrays
 		- Lists
+			- Lists Array Lists
+			- Abstract Data type
+			- Array Lists
+			- Vectors
+			- Singly Linked Lists [Theory]() - Examples : [C++]() [Python]() [Javascript]()
+			- Doubly Linked Lists
+			- Lists Doubly Linked Lists
+			- Challenges
+
 		- Stacks
 		- Queues
 		- Hashtables
@@ -69,6 +80,7 @@ Actually the whole thing it's much way simpler than you think, but it's supernat
 		- Heaps
 		- Graphs
 	- introduction to Algorithms
+
 		- Sorting algoritms
 			- Bubble sort [Theory]() - Examples : [Java]() [C++]() [Python]() [Javascript]()
 			- Selection sort [Theory]() - Examples : [Java]() [C++]() [Python]() [Javascript]()
@@ -79,8 +91,17 @@ Actually the whole thing it's much way simpler than you think, but it's supernat
 			- Counting sort [Theory]() - Examples : [Java]() [C++]() [Python]() [Javascript]()
 			- Redix sort [Theory]() - Examples : [Java]() [C++]() [Python]() [Javascript]()
 			- Insertion sort [Theory]() - Examples : [Java]() [C++]() [Python]() [Javascript]()
+
+		- Reasearch algoritms
+			- [introduction]()
+			- Linear Search [Theory]() - Examples : [Java]() [C++]() [Python]() [Javascript]()
+			- Binary Search [Theory]() - Examples : [Java]() [C++]() [Python]() [Javascript]()
+
+
+		
 - [Do it with love or don't even begin.](#do-it-with-love-or-dont-even-begin)
 - [Things speeds up you learning process and makes it more easy and fun](#things-speeds-up-you-learning-process-and-makes-it-more-easy-and-fun)
+
 
 ---
 
