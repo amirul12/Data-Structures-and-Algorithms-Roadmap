@@ -74,10 +74,20 @@ Actually the whole thing it's much way simpler than you think, but it's supernat
 			- Challenges
 
 		- Stacks
+			- [Theory]() - [Java]() [C++]() [Python]() [Jvascript]()
 		- Queues
 		- Hashtables
 		- Trees
+			- Biray search trees
+			- Biray search trees (insertion)
+			- Biray search trees (traversal)
+			- Biray search trees (insertion)
+			- Biray search trees (Get min max)
+			- Biray search trees (insertion)
 		- Heaps
+			- Heaps (Insert)
+			- Heaps (Delete)
+			- Heaps (Peek)
 		- Graphs
 	- introduction to Algorithms
 
