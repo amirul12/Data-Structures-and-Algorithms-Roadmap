@@ -5,6 +5,10 @@
 
 <p align="center">
 
+![Github All Releases](https://img.shields.io/github/downloads/HumamAlhasan/Data-Structures-and-Algorithms-Roadmap/total.svg?sanitize=true)
+<img src="https://img.shields.io/github/downloads/HumamAlhasan/Data-Structures-and-Algorithms-Roadmap/total.svg?sanitize=true">
+
+
     <a alt="Github All Releases">
         <img src="https://img.shields.io/github/downloads/HumamAlhasan/Data-Structures-and-Algorithms-Roadmap/total.svg" /></a>
     <a href="https://img.shields.io/github/forks/HumamAlhasan/Data-Structures-and-Algorithms-Roadmap/shields.svg?style=social&label=Fork" alt="GitHub forks">
